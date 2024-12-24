@@ -1,13 +1,41 @@
-- 👋 Hi, I’m @Soumya268-singh
-- 👀 I’m interested in coding and web development 
-- 🌱 I’m currently learning programming languages 
-- 💞️ I’m looking to collaborate on web development 
-- 📫 How to reach me can call me on mobile no. 8779406331
-- 😄 Pronouns: her/she
-- ⚡ Fun fact: im a bit boring but when it comes to coding im super cool
-- 
 
-<!---
-Soumya268-singh/Soumya268-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Somya!
+
+Welcome to my GitHub profile! I'm a passionate BSC-IT student with a growing interest in AI, robotics, and software development. I aim to merge software and hardware to create innovative projects that inspire and solve real-world problems.
+
+🛠️ Skills & Interests
+
+Programming Languages: Python, C++, JavaScript (Add your languages here)
+
+Domains: Data Structures, Algorithms, AI, and Robotics
+
+Current Focus: Exploring the intersection of AI and robotics
+
+Future Aspirations: Building projects that blend technology and creativity
+
+🌱 Currently Learning
+
+Diving deeper into artificial intelligence and robotics
+
+Exploring hardware integration with software solutions
+
+Improving my knowledge of DSA to build efficient systems
+
+✨ My Values
+
+I believe challenges are opportunities to learn and grow.
+
+Staying calm under pressure is my strength.
+
+Every stage of life is a lesson, and I embrace the journey with curiosity and determination.
+
+
+🔗 Connect with me
+
+Email Me
+soumyasingh1052006@gmail.com
+
+
+Feel free to explore my repositories and join me in the pursuit of learning, innovation, and personal growth. Let's build something amazing together! 
+
+
