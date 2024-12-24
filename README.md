@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Somya!
+👋 Hi, I'm Soumya268-singh
 
 Welcome to my GitHub profile! I'm a passionate BSC-IT student with a growing interest in AI, robotics, and software development. I aim to merge software and hardware to create innovative projects that inspire and solve real-world problems.
 
